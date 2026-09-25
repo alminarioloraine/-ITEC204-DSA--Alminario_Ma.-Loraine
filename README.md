@@ -1,1 +1,1 @@
-# -ITEC204-DSA--Alminario_Ma.-Loraine
+# -ITEC204-DSA--Alminario_Ma.Loraine
